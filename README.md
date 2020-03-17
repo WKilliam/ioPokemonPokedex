@@ -1,1 +1,1 @@
-ioPokemonPokedex
+iosPokemonPokedex
